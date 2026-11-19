@@ -1,2 +1,2 @@
-# x-to-discord-bot
+# bounty-lab
 BOT Update Social
