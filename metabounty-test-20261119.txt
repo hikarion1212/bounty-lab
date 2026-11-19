@@ -1,0 +1,1 @@
+Meta Bug Bounty security test artifact, 2026-11-19. Created and deleted within the same test run. No user data.
