@@ -1,2 +1,2 @@
-# X-discord-update-BOT
+# x-to-discord-bot
 BOT Update Social
